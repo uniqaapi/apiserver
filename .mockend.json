@@ -1,6 +1,6 @@
 {
   "User": {
     "name": { "string": {} },
-    "location": { "string": ["AT","BG"]}
+    "location": { "string": ["AT","BG","SL","D"]}
   }
 }
